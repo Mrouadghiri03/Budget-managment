@@ -20,5 +20,8 @@
     <string name="menu_transactions">Transactions</string>
     <string name="menu_logout">Logout</string>
 
+    <string name="signup_text"><u>Sign Up</u></string>
+
+
 
 </resources>
